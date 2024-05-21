@@ -1,0 +1,13 @@
+build/
+.DS_Store
+.vscode
+!CMakeLists.txt
+!rule/*.rule
+!proj_send/*.rule
+!proj_send_pdf/*.pdf
+!proj_wheel/*.wheel
+!proj_log/7_0.wheel.log
+!enum_send.sh
+!enum_wheel.sh
+!discharge.sh
+!charge_result.sh
